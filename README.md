@@ -42,6 +42,6 @@ This project demonstrates a refined approach to scroll-based interactions, combi
   ---
 
 
-  ### *Where motion meets storytelling — turning scroll into an interactive experience*😉✨
+  ### *Where motion meets storytelling - turning scroll into an interactive experience*😉✨
 
   ----
